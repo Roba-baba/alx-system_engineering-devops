@@ -1,0 +1,4 @@
+#!/bin/bash
+#1-listit - displays lists in directory
+ls
+\n

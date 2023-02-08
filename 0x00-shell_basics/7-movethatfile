@@ -1,0 +1,3 @@
+#!/bin/bash
+$ mv -l betty -/tmp/my_first_directory
+\n
