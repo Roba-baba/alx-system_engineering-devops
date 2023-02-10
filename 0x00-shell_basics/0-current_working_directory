@@ -1,4 +1,2 @@
 #!/bin/bash
-#0-current_working_directory - A script that prints the path of working directory
 pwd
-\n
